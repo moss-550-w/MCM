@@ -1,0 +1,5 @@
+- task4_flowchart.png：按文档“通用建模流程(1-10步)”绘制的流程图
+- task4_basic_dashboard.png：方案1（MILP+松弛）核心结果仪表板（累计供给、排放vs上限、年度供给构成、年度火箭发射数）
+- task4_pareto.png：方案2（AHP阶段权重+GA）可行/不可行解分布 + 近似帕累托前沿
+- task4_basic_results.csv：方案1逐年核心结果数据（供给、排放、松弛量、累计供给等）
+- task4_innovative_top3.csv：方案2三类方案（env/cost/balanced）汇总表（核心指标+编码参数）
